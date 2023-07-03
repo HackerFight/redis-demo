@@ -1,0 +1,10 @@
+server:
+  port: 5588
+
+
+spring:
+  redis:
+    host: 172.16.10.96
+    password: RedisDBforeFt20200911
+    port: 6379  #默认
+    database: 0  #默认
